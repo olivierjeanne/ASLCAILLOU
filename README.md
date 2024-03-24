@@ -26,3 +26,9 @@ flutter upgrade
 flutter pub dev
 
 test gitflow echec naw
+réglé en instalant "Gitflow 4 code" 
+
+et on continue à tester !!!
+plutot deux fois qu'une 
+
+et plouf test1
