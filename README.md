@@ -24,3 +24,5 @@ flutter --version
 dart --version
 flutter upgrade
 flutter pub dev
+
+test gitflow echec naw
